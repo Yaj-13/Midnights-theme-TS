@@ -1,0 +1,22 @@
+{
+  "name": "midnights-ts-theme",
+  "displayName": "Midnights TS dark theme",
+  "description": "Midnights album by Taylor Swift dark theme",
+  "publisher": "YAJ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnights TS theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnights TS theme-color-theme.json"
+      }
+    ]
+  }
+}
